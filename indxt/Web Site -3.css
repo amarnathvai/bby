@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background-attachment: fixed;
+    background-size: 0%;
+    background-image: url('https://th.bing.com/th?id=OIF.pd%2baD1oJYM1Y%2bwobYFK0iw&rs=1&pid=ImgDetMain');
+}
